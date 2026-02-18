@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+h1 {
+    text-align: center;
+}
+
+.subtitle {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #666;
+}
+
+.review-card {
+    background: #f4f4f4;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-left: 5px solid #4e73df;
+    border-radius: 5px;
+}
